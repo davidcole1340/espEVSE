@@ -1,0 +1,14 @@
+.vscode
+
+# Proteus
+*.pdsprj.*.workspace
+*.pdsbak
+
+# SPICE
+*.raw
+*.log
+
+# Firmware
+objects
+*.elf
+*.hex

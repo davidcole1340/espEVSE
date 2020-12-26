@@ -1,3 +1,3 @@
-# avrEVSE
+# espEVSE 
 
-> Open-source Electric Vehicle Supply Equipment built on AVR by ATMEL
+> Open-source Electric Vehicle Supply Equipment built on the ESP32 platform by Espressif.
